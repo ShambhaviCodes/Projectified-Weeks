@@ -13,6 +13,6 @@ You can follow any of the tutorials to complete a project in the suggested NLP U
 - [Text Classification : IMDB Dataset](https://medium.com/data-from-the-trenches/text-classification-the-first-step-toward-nlp-mastery-f5f95d525d73)
 - [Deep Learning Techniques for Text Classification](https://medium.com/datadriveninvestor/deep-learning-techniques-for-text-classification-9392ca9492c7)
 - [Multi-Class Text Classification](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
-
+- [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
 
 
